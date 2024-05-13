@@ -3,7 +3,7 @@
 #### Technical Skills: Product Management, Business Analysis, Power BI, Python, SQL, Business Intelligence, Wireframing, User Stories, Market Research, Product Launch 
 
 ## Education
-- MBA, Business Analytics, Marketing | Indian Institute of Management Ranchi (_March 2023_)								       		
+- MBA, Business Analytics, Marketing                | Indian Institute of Management Ranchi (_March 2023_)								       		
 - B.Tech, Computer Science, Information Technology	| Cochin University of Science and Technology (_May 2019_)	 			        		
 
 ## Work Experience
