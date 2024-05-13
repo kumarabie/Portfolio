@@ -36,10 +36,21 @@
 
 **Data Science Intern @ Cyrrup IIIT Hyderabad (_April 2018 - July 2018_)**
 - Implemented time series & CNN-YOLO algorithm to analyze trips from OBD devices installed in vehicles
-- Built models which use accelerometer, speedometer, and GPS data to Generate driver performance insights
+- Built models that use accelerometer, speedometer, and GPS data to Generate driver performance insights
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/@kabhinav569/bitcoin-is-it-maths-or-chemistry-17889f110d06"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> BITcoin -Is it Maths or Chemistry. </b></a><br/><i> Cryptocurrency - Blockchain </i></li>
+  <li><a href="https://medium.com/@kabhinav569/the-greatest-love-story-of-all-times-isnt-that-great-c437a2b70087"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> The greatest love story of all times isn’t that Great </b></a><br/><I> Love story - Romance</i></li>
+    <li><a href="https://medium.com/@kabhinav569/sleep-if-you-can-and-dream-if-you-cant-686e828bc665"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Sleep if you can and dream if you can’t! </b></a><br/><i>Sleeping - Dreams </i></li>
+</ul>
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/kumarabie" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kumarabby569" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kumar-abhinav569/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@kabhinav569" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
