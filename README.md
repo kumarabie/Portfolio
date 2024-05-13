@@ -1,4 +1,4 @@
-# Kumar-Abhinav.github.io
+# Kumar Abhinav
 # Product Manager | Business Analyst | Digital Marketing
 
 #### Technical Skills: Product Management, Business Analysis, Power BI, Python, SQL, Business Intelligence, Wireframing, User Stories, Market Research, Product Launch 
