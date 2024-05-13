@@ -1,4 +1,3 @@
-# Kumar Abhinav
 # Product Manager | Business Analyst | Digital Marketing
 
 #### Technical Skills: Product Management, Business Analysis, Power BI, Python, SQL, Business Intelligence, Wireframing, User Stories, Market Research, Product Launch 
@@ -39,16 +38,38 @@
 - Built models that use accelerometer, speedometer, and GPS data to Generate driver performance insights
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Loan Default prediction
+[Publication](https://github.com/kumarabie/Predictive-Analytics-Algorithms-/blob/main/Final_Project_Loan_Prediction.ipynb)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Implemented predictive modeling such as Regression, Decision tree, Random forest & ANN
+- Conducted univariate, multivariate analysis & Exploratory data analysis (EDA) to identify key dataset features
+- Validated model using ROC-AUC curves & applied xgboost to get information gain about top features
+
+### Dashboard controller to check the status of the cluster using Grafana
+- Implemented dashboard controller to use API and create different dashboards for different applications and workloads running live on cluster environment. 
+- Federated the metrics to scrape them from the remote cluster and use them on different host clusters.
+
+### Titanic-Prediction of Likelihood of Passengers' Survival
+- Predicted the likelihood of survival of passengers and performed Missing value treatment and its Imputation.
+- Applied feature engineering techniques such as imputation and aggregations to clean and prepare data for prediction.
+- Built an ensemble model of random forest classifier using caret and rpart package and increased accuracy from an initial 51% to 78%.
+
+## Courses
+### Digital Product Management 
+[Certifications](https://www.coursera.org/account/accomplishments/verify/AJ5N7RW5LNQE)
+
+-Digital Product Management: Modern Fundamentals by University of Virginia
+
+### Applied Machine Learning in Python 
+[Certifications](https://www.coursera.org/account/accomplishments/verify/4CFUS7BXNALZ)
+
+-Applied Machine Learning in Python
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/@kabhinav569/bitcoin-is-it-maths-or-chemistry-17889f110d06"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> BITcoin -Is it Maths or Chemistry. </b></a><br/><i> Cryptocurrency - Blockchain </i></li>
-  <li><a href="https://medium.com/@kabhinav569/the-greatest-love-story-of-all-times-isnt-that-great-c437a2b70087"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> The greatest love story of all times isn’t that Great </b></a><br/><I> Love story - Romance</i></li>
-    <li><a href="https://medium.com/@kabhinav569/sleep-if-you-can-and-dream-if-you-cant-686e828bc665"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Sleep if you can and dream if you can’t! </b></a><br/><i>Sleeping - Dreams </i></li>
+  <li><a href="https://medium.com/@kabhinav569/bitcoin-is-it-maths-or-chemistry-17889f110d06"><b> BITcoin -Is it Maths or Chemistry. </b></a><br/><i> Cryptocurrency - Blockchain </i></li>
+  <li><a href="https://medium.com/@kabhinav569/the-greatest-love-story-of-all-times-isnt-that-great-c437a2b70087"><b> The greatest love story of all times isn’t that Great </b></a><br/><I> Love story - Romance</i></li>
+    <li><a href="https://medium.com/@kabhinav569/sleep-if-you-can-and-dream-if-you-cant-686e828bc665"><b> Sleep if you can and dream if you can’t! </b></a><br/><i>Sleeping - Dreams </i></li>
 </ul>
 
 <h3>Where to find me</h3>
