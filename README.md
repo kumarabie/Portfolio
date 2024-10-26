@@ -7,7 +7,7 @@
 - B.Tech, Computer Science, Information Technology	| Cochin University of Science and Technology (_May 2019_)	 			        		
 
 ## Work Experience
-**Senior Consultant @ EY India (_June 2024 - Present)**
+**Senior Consultant @ EY India (June 2024 - Present)**
 - Designed a comprehensive Logistics Control Tower for managing inbound and outbound logistics, in-plant operations, and freight settlement resulting in enhanced visibility & improved coordination.
 - Developed ETL process in Alteryx to extract data from multiple sources such as Excel, SQL server and schedule workflows
 - Worked on creating data model, DAX measures, calculated columns and various visualizations including slicers, graphs, charts and filters.
