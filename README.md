@@ -7,7 +7,12 @@
 - B.Tech, Computer Science, Information Technology	| Cochin University of Science and Technology (_May 2019_)	 			        		
 
 ## Work Experience
-**Product Manager @ ICICI Bank (_April 2023 - Present_)**
+**Senior Consultant @ EY India (_June 2024 - Present)**
+- Designed a comprehensive Logistics Control Tower for managing inbound and outbound logistics, in-plant operations, and freight settlement resulting in enhanced visibility & improved coordination.
+- Developed ETL process in Alteryx to extract data from multiple sources such as Excel, SQL server and schedule workflows
+- Worked on creating data model, DAX measures, calculated columns and various visualizations including slicers, graphs, charts and filters.
+
+  **Product Manager @ ICICI Bank (_April 2023 - June 2024_)**
 - Crafted product requirement specification (PRD) outlining features, and functionalities for secured loan products
 - Developed detailed Test cases, API & BRE to ensure product’s reliability, and usability, reducing bugs by 8%
 -	Evaluated Sales CRM drop off, MIS Reports & resolving Live issues post product launch increasing NPS by 5%
